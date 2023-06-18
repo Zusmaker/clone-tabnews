@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Saudações da Zusmaker! Se você já rolou 1 no d20, dê uma risada kkk</h1>
+    return <h1>Querido(a) aventureiro(a), receba as saudações da Zusmaker! 🧙🎲🐲 </h1>
 }
 
 export default Home;
